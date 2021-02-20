@@ -1,0 +1,5 @@
+{
+  "log_level": 4,
+  "entry_file": "index.js",
+  "enable_resources": false
+}

@@ -1,0 +1,121 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[07:04:03] 
+[07:04:03] Server Plugins
+[07:04:03] --------------
+[07:04:03]  Loading plugin: samp-node
+[07:04:07]   Loaded.
+[07:04:07]  Loaded 1 plugins.
+
+[07:04:07] 
+[07:04:07] Filterscripts
+[07:04:07] ---------------
+[07:04:07]   Loaded 0 filterscripts.
+
+[07:04:07] Loaded!
+[07:04:07] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[07:12:01] 
+[07:12:01] Server Plugins
+[07:12:01] --------------
+[07:12:01]  Loading plugin: samp-node
+[07:12:01]   Loaded.
+[07:12:01]  Loaded 1 plugins.
+
+[07:12:01] 
+[07:12:01] Filterscripts
+[07:12:01] ---------------
+[07:12:01]   Loaded 0 filterscripts.
+
+[07:12:01] Loaded!
+[07:12:01] Number of vehicle models: 0
+[07:12:08] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[07:13:28] 
+[07:13:28] Server Plugins
+[07:13:28] --------------
+[07:13:28]  Loading plugin: samp-node
+[07:13:29]   Loaded.
+[07:13:29]  Loaded 1 plugins.
+
+[07:13:29] 
+[07:13:29] Filterscripts
+[07:13:29] ---------------
+[07:13:29]   Loaded 0 filterscripts.
+
+[07:13:29] Loaded!
+[07:13:29] Number of vehicle models: 0
+[07:13:32] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[07:16:53] 
+[07:16:53] Server Plugins
+[07:16:53] --------------
+[07:16:53]  Loading plugin: samp-node
+[07:16:53]   Loaded.
+[07:16:53]  Loaded 1 plugins.
+
+[07:16:53] 
+[07:16:53] Filterscripts
+[07:16:53] ---------------
+[07:16:53]   Loaded 0 filterscripts.
+
+[07:16:56] Loaded!
+[07:16:56] Number of vehicle models: 0
+[07:17:27] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[07:17:30] 
+[07:17:30] Server Plugins
+[07:17:30] --------------
+[07:17:30]  Loading plugin: samp-node
+[07:17:31]   Loaded.
+[07:17:31]  Loaded 1 plugins.
+
+[07:17:31] 
+[07:17:31] Filterscripts
+[07:17:31] ---------------
+[07:17:31]   Loaded 0 filterscripts.
+
+[07:17:31] Loaded!
+[07:17:31] Number of vehicle models: 0
+[07:18:12] [connection] 127.0.0.1:50193 requests connection cookie.
+[07:18:13] [connection] incoming connection: 127.0.0.1:50193 id: 0
+[07:18:13] [join] Zharckov has joined the server (0:127.0.0.1)

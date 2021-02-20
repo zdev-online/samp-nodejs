@@ -1,0 +1,14 @@
+{
+  "name": "sampdrift",
+  "version": "0.0.1",
+  "description": "Russian Drift Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zharckov",
+  "license": "ISC",
+  "dependencies": {
+    "samp-node-lib": "^1.0.5"
+  }
+}
