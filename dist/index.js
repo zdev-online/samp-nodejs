@@ -20,11 +20,15 @@ var __importStar = (this && this.__importStar) || function (mod) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 const Samp = __importStar(require("samp-node-lib"));
-const { OnGameModeInit, OnGameModeExit } = Samp;
+const { OnGameModeInit, OnGameModeExit, GetMaxPlayers } = Samp;
+const MAX_PLAYERS = GetMaxPlayers();
+const PLAYERS = new Array(MAX_PLAYERS);
+console.log(PLAYERS);
 OnGameModeInit(function () {
     console.log(`Game Mode - Init`);
+    return true;
 });
 OnGameModeExit(function () {
     console.log(`Game Mode - Exit`);
+    return true;
 });
-exports.default = Samp;

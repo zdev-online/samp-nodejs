@@ -10,3 +10,7 @@
 [06/07/2021 - 01:04:32] -> [PLUGIN] samp-node plugin started...
 [06/07/2021 - 01:04:32] -> [DEBUG]: node flags: node
 [06/07/2021 - 01:04:32] -> [DEBUG]: node flags: dist/index.js
+[06/07/2021 - 01:21:39] -> [PLUGIN] samp-node plugin started...
+[06/07/2021 - 01:21:39] -> [DEBUG]: node flags: node
+[06/07/2021 - 01:21:39] -> [DEBUG]: node flags: dist/index.js
+[06/07/2021 - 01:21:40] -> [ERROR]: [callNative] native function: GetMaxPlayers not found.
