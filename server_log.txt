@@ -7,20 +7,8 @@ SA-MP Dedicated Server
 ----------------------
 v0.3.7-R2, (C)2005-2015 SA-MP Team
 
-[07:04:03] 
-[07:04:03] Server Plugins
-[07:04:03] --------------
-[07:04:03]  Loading plugin: samp-node
-[07:04:07]   Loaded.
-[07:04:07]  Loaded 1 plugins.
-
-[07:04:07] 
-[07:04:07] Filterscripts
-[07:04:07] ---------------
-[07:04:07]   Loaded 0 filterscripts.
-
-[07:04:07] Loaded!
-[07:04:07] Number of vehicle models: 0
+[00:57:51] Unable to exec file 'server.cfg'.
+[00:57:51] Error: Your password must be changed from the default password, please change it.
 
 ----------
 Loaded log file: "server_log.txt".
@@ -28,23 +16,10 @@ Loaded log file: "server_log.txt".
 
 SA-MP Dedicated Server
 ----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
+v0.3e, (C)2005-2012 SA-MP Team
 
-[07:12:01] 
-[07:12:01] Server Plugins
-[07:12:01] --------------
-[07:12:01]  Loading plugin: samp-node
-[07:12:01]   Loaded.
-[07:12:01]  Loaded 1 plugins.
-
-[07:12:01] 
-[07:12:01] Filterscripts
-[07:12:01] ---------------
-[07:12:01]   Loaded 0 filterscripts.
-
-[07:12:01] Loaded!
-[07:12:01] Number of vehicle models: 0
-[07:12:08] --- Server Shutting Down.
+[00:57:55] Unable to exec file 'server.cfg'.
+[00:57:55] Error: Your password must be changed from the default password, please change it.
 
 ----------
 Loaded log file: "server_log.txt".
@@ -52,23 +27,10 @@ Loaded log file: "server_log.txt".
 
 SA-MP Dedicated Server
 ----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
+v0.3e, (C)2005-2012 SA-MP Team
 
-[07:13:28] 
-[07:13:28] Server Plugins
-[07:13:28] --------------
-[07:13:28]  Loading plugin: samp-node
-[07:13:29]   Loaded.
-[07:13:29]  Loaded 1 plugins.
-
-[07:13:29] 
-[07:13:29] Filterscripts
-[07:13:29] ---------------
-[07:13:29]   Loaded 0 filterscripts.
-
-[07:13:29] Loaded!
-[07:13:29] Number of vehicle models: 0
-[07:13:32] --- Server Shutting Down.
+[00:58:16] Unable to exec file 'server.cfg'.
+[00:58:16] Error: Your password must be changed from the default password, please change it.
 
 ----------
 Loaded log file: "server_log.txt".
@@ -76,23 +38,23 @@ Loaded log file: "server_log.txt".
 
 SA-MP Dedicated Server
 ----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
+v0.3e, (C)2005-2012 SA-MP Team
 
-[07:16:53] 
-[07:16:53] Server Plugins
-[07:16:53] --------------
-[07:16:53]  Loading plugin: samp-node
-[07:16:53]   Loaded.
-[07:16:53]  Loaded 1 plugins.
+[01:01:31] 
+[01:01:31] Server Plugins
+[01:01:31] --------------
+[01:01:31]  Loading plugin: samp-node
+[01:01:32]   Loaded.
+[01:01:32]  Loaded 1 plugins.
 
-[07:16:53] 
-[07:16:53] Filterscripts
-[07:16:53] ---------------
-[07:16:53]   Loaded 0 filterscripts.
+[01:01:32] 
+[01:01:32] Filterscripts
+[01:01:32] ---------------
+[01:01:32]   Loaded 0 filterscripts.
 
-[07:16:56] Loaded!
-[07:16:56] Number of vehicle models: 0
-[07:17:27] --- Server Shutting Down.
+[01:01:32] Loaded!
+[01:01:32] Number of vehicle models: 0
+[01:01:45] --- Server Shutting Down.
 
 ----------
 Loaded log file: "server_log.txt".
@@ -100,22 +62,68 @@ Loaded log file: "server_log.txt".
 
 SA-MP Dedicated Server
 ----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
+v0.3e, (C)2005-2012 SA-MP Team
 
-[07:17:30] 
-[07:17:30] Server Plugins
-[07:17:30] --------------
-[07:17:30]  Loading plugin: samp-node
-[07:17:31]   Loaded.
-[07:17:31]  Loaded 1 plugins.
+[01:01:57] 
+[01:01:57] Server Plugins
+[01:01:57] --------------
+[01:01:57]  Loading plugin: samp-node
+[01:01:57]   Loaded.
+[01:01:57]  Loaded 1 plugins.
 
-[07:17:31] 
-[07:17:31] Filterscripts
-[07:17:31] ---------------
-[07:17:31]   Loaded 0 filterscripts.
+[01:01:57] 
+[01:01:57] Filterscripts
+[01:01:57] ---------------
+[01:01:57]   Loaded 0 filterscripts.
 
-[07:17:31] Loaded!
-[07:17:31] Number of vehicle models: 0
-[07:18:12] [connection] 127.0.0.1:50193 requests connection cookie.
-[07:18:13] [connection] incoming connection: 127.0.0.1:50193 id: 0
-[07:18:13] [join] Zharckov has joined the server (0:127.0.0.1)
+[01:01:57] Loaded!
+[01:01:57] Number of vehicle models: 0
+[01:03:16] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e, (C)2005-2012 SA-MP Team
+
+[01:03:20] 
+[01:03:20] Server Plugins
+[01:03:20] --------------
+[01:03:20]  Loading plugin: samp-node
+[01:03:21]   Loaded.
+[01:03:21]  Loaded 1 plugins.
+
+[01:03:21] 
+[01:03:21] Filterscripts
+[01:03:21] ---------------
+[01:03:21]   Loaded 0 filterscripts.
+
+[01:03:21] Loaded!
+[01:03:21] Number of vehicle models: 0
+[01:04:27] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e, (C)2005-2012 SA-MP Team
+
+[01:04:32] 
+[01:04:32] Server Plugins
+[01:04:32] --------------
+[01:04:32]  Loading plugin: samp-node
+[01:04:32]   Loaded.
+[01:04:32]  Loaded 1 plugins.
+
+[01:04:32] 
+[01:04:32] Filterscripts
+[01:04:32] ---------------
+[01:04:32]   Loaded 0 filterscripts.
+
+[01:04:32] Loaded!
+[01:04:32] Number of vehicle models: 0
+[01:08:47] --- Server Shutting Down.
